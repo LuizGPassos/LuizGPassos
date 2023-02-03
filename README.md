@@ -5,5 +5,6 @@
 - 7° Semestre em Ciência da Computação 📚
 - Apaixonado em Data Science e IA 🤖
 - Atuando com Desenvolvimento de Software, Administrando Banco de Dados, Analise de dados, Machine Learning e automações 🧾
+- Estudando Segurança da Informação e Pentest 💂🏾‍♂️
 
 
