@@ -28,4 +28,15 @@ public class EntityStats : MonoBehaviour
 
         DontDestroyOnLoad(gameObject);
     }
+
+    void Start()
+    {
+
+    }
+
+    void Update()
+    {
+    
+    }
+
 }
