@@ -14,6 +14,6 @@ public class EntityStats : MonoBehaviour
     public List<string> interests = new List<string> { "Game Development", "Data Analysis", "Data Science", "Business Intelligence" };
     public string[] toolsAndFrameworks = {"PySpark", "DataBricks", "OCV", "YOLO", "Pytorch", "Django", "Flask", "Pandas", "OCR", , "JQuery" };
     public List<string> APIs = new List<string> { "OpenAI", "ElevenLabs", "BigDataCorp", "Discord", "Spotify" };
-    public List<string> Applications =  new List<string> {"Power BI", "Metabase", "Databricks", "Power Automation", "Excel", "SAP"}
+    public List<string> Applications =  new List<string> {"Power BI", "Metabase", "Databricks", "Power Automation", "Excel", "SAP"};
 
 }
